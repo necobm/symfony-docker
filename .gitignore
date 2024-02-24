@@ -9,3 +9,7 @@
 /vendor/
 ###< symfony/framework-bundle ###
 /.docker/.env.nginx.local
+
+###> JetBrains IDE ###
+.idea/
+###< JetBrains IDE ###
