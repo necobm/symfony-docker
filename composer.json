@@ -18,7 +18,8 @@
     "symfony/yaml": "6.4.*"
   },
   "require-dev": {
-    "symfony/maker-bundle": "^1.48"
+    "symfony/maker-bundle": "^1.48",
+    "friendsofphp/php-cs-fixer": "^3.52"
   },
   "config": {
     "preferred-install": {
